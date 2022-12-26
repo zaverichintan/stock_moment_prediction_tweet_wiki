@@ -7,6 +7,10 @@ Dependencies can be installed via:
 ```python
 pip install -r requirements.txt
 ```
+also a conda env file is given, create env using
+```
+conda env create -f environment.yml
+```
 
 ## Dataset and Preprocessing 
 
