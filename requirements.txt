@@ -1,0 +1,11 @@
+numpy
+scipy
+torch
+networkx
+sentence_transformers
+torch_sparse
+torch-scatter
+torch-sparse
+torch-cluster
+torch-geometric -f <source_site>
+ipywidgets
